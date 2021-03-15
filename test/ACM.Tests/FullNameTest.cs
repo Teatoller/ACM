@@ -50,15 +50,15 @@ namespace ACM.Tests
         {
             Customer customer1 = new Customer();
             customer1.FirstName = "Steven";
-            Customer.InstanceCount +=1;
+            Customer.InstanceCount += 1;
 
             Customer customer2 = new Customer();
             customer2.FirstName = "Jemima";
-            Customer.InstanceCount +=1;
+            Customer.InstanceCount += 1;
 
             Customer customer3 = new Customer();
             customer3.FirstName = "Dave";
-            Customer.InstanceCount +=1;
+            Customer.InstanceCount += 1;
 
             int expected = 3;
 
@@ -67,6 +67,40 @@ namespace ACM.Tests
             Assert.Equal(expected, actual);
         }
 
-        
+        [Fact]
+        public void ValidateTest()
+        {
+            // var customer = new Customer()
+            // {
+            //     LastName = "Steven",
+            //     EmailAddress = "steven@example.com"
+            // };
+            var customer = new Customer();
+            customer.LastName = "Abdi";
+            customer.EmailAddress = "test@test.com";
+
+            bool expected = true;
+
+            var actual = customer.Validate();
+
+            Assert.Equal(expected, actual);
+        }
+
+        [Fact]
+        public void ValidateMissingLastNameTest()
+        {
+            var customer = new Customer()
+            {
+                EmailAddress = "steven@example.com"
+            };
+
+            bool expected = false;
+
+            var actual = customer.Validate();
+
+            Assert.Equal(expected, actual);
+        }
+
+
     }
 }
