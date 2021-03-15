@@ -94,3 +94,6 @@
 /home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/test/ACM.Tests/obj/Debug/netcoreapp3.1/ACM.Tests.dll
 /home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/test/ACM.Tests/obj/Debug/netcoreapp3.1/ACM.Tests.pdb
 /home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/test/ACM.Tests/obj/Debug/netcoreapp3.1/ACM.Tests.genruntimeconfig.cache
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/test/ACM.Tests/bin/Debug/netcoreapp3.1/ACM
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/test/ACM.Tests/bin/Debug/netcoreapp3.1/ACM.dll
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/test/ACM.Tests/bin/Debug/netcoreapp3.1/ACM.pdb

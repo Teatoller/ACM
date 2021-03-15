@@ -8,6 +8,7 @@
 *.obj
 *.elf
 *src/ACM/bin/
+*src/ACM/bin/Debug
 *src/ACM/obj/
 *test/ACM.Tests/bin/
 *test/ACM.Tests/obj/
