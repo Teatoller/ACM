@@ -1,0 +1,13 @@
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/bin/Debug/netcoreapp3.1/ACM
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/bin/Debug/netcoreapp3.1/ACM.deps.json
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/bin/Debug/netcoreapp3.1/ACM.runtimeconfig.json
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/bin/Debug/netcoreapp3.1/ACM.runtimeconfig.dev.json
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/bin/Debug/netcoreapp3.1/ACM.dll
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/bin/Debug/netcoreapp3.1/ACM.pdb
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/obj/Debug/netcoreapp3.1/ACM.csprojAssemblyReference.cache
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/obj/Debug/netcoreapp3.1/ACM.AssemblyInfoInputs.cache
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/obj/Debug/netcoreapp3.1/ACM.AssemblyInfo.cs
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/obj/Debug/netcoreapp3.1/ACM.csproj.CoreCompileInputs.cache
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/obj/Debug/netcoreapp3.1/ACM.dll
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/obj/Debug/netcoreapp3.1/ACM.pdb
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/obj/Debug/netcoreapp3.1/ACM.genruntimeconfig.cache
