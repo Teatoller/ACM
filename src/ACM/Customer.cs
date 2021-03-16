@@ -31,6 +31,8 @@ namespace ACM
             }
         }
 
+        public override string ToString() => FullName;
+
         private string fullName;
         public string FullName
         {

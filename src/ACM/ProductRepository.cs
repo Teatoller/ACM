@@ -22,13 +22,39 @@ namespace ACM
                 product.CurrentPrice = (decimal?)24.6;
             }
 
+            // var myObject = new Object();
+            // Console.WriteLine($"Object: {myObject.ToString()}");
+            Console.WriteLine($"Product: {product.ToString()}");
+
             return product;
         }
 
         // Save product
         public bool Save(Product product)
         {
-            return true;
+            bool success = true;
+
+            if (product.HasChanges)
+            {
+                if (product.IsValid)
+                {
+                    if (product.IsNew)
+                    {
+                        //store procedure 
+                    }
+                    else
+                    {
+                        // update store procedure
+                    }
+
+                }
+                else
+                {
+                    success = false;
+                }
+            }
+
+            return success;
         }
     }
 }

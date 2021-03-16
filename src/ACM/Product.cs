@@ -1,6 +1,6 @@
 namespace ACM
 {
-    public class Product
+    public class Product:EntityBase
     {
         public Product()
         {
@@ -17,8 +17,13 @@ namespace ACM
 
         public static int InstanceCount { get; set; }
 
+        public override string ToString()
+        {
+            return ProductName;
+        }
+
         // Validate product name
-        public bool Validate()
+        public override bool Validate()
         {
             var isValid = true;
             if (string.IsNullOrWhiteSpace(ProductName))

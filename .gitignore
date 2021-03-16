@@ -7,10 +7,14 @@
 *.ko
 *.obj
 *.elf
-*src/ACM/bin
-*src/ACM/obj
+*src/ACM/bin/
+*src/ACM/obj/
 *test/ACM.Tests/obj
 *test/ACM.Tests/bin
+*src/ACM/bin/Debug/netcoreapp3.1/ACM.pdb
+*src/ACM/bin/Debug/netcoreapp3.1/ACM.dll
+*test/ACM.Tests/bin/Debug/netcoreapp3.1/ACM.Tests.dll
+*test/ACM.Tests/bin/Debug/netcoreapp3.1/ACM.Tests.pdb
 
 # Linker output
 *.ilk

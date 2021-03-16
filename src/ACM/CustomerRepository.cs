@@ -32,6 +32,8 @@ namespace ACM
                 customer.AddressList = addressRepository.RetrieveByCustomerId(customerId).ToList();
             }
 
+            Console.WriteLine($"Customer: {customer.ToString()}");
+
             return customer;
         }
 
