@@ -15,18 +15,6 @@ namespace ACM
         public int OrderId { get; private set; }
         public DateTimeOffset? OrderDate { get; set; }
 
-        // Retrieve order
-        public Order Retrieve(int OrderId)
-        {
-            return new Order();
-        }
-
-        // Save order
-        public bool Save()
-        {
-            return true;
-        }
-
         // Validate order date
         public bool Validate()
         {

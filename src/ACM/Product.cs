@@ -17,18 +17,6 @@ namespace ACM
 
         public static int InstanceCount { get; set; }
 
-        // Retrieve product
-        public Product Retrieve(int ProductId)
-        {
-            return new Product();
-        }
-
-        // Save product
-        public bool Save()
-        {
-            return true;
-        }
-
         // Validate product name
         public bool Validate()
         {

@@ -48,23 +48,6 @@ namespace ACM
         }
         public static int InstanceCount { get; set; }
 
-        //Retreive all customers
-        public List<Customer> Retrieve()
-        {
-            return new List<Customer>();
-        }
-        // Retrieve customer
-        public Customer Retrieve(int CustomerId)
-        {
-            return new Customer();
-        }
-
-        // Save customer
-        public bool Save()
-        {
-            return true;
-        }
-
         // Validate customer name
         public bool Validate()
         {
