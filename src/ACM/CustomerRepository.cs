@@ -1,10 +1,18 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace ACM
 {
     public class CustomerRepository
     {
+        // Establish link between CustomerRepository and AddressRepository
+        public CustomerRepository()
+        {
+            addressRepository = new AddressRepository();
+        }
+        public AddressRepository addressRepository { get; set; }
+
         //Retreive all customers
         public List<Customer> Retrieve()
         {
@@ -21,6 +29,7 @@ namespace ACM
                 customer.FirstName = "Steven";
                 customer.LastName = "Ennis";
                 customer.EmailAddress = "steven@test.me";
+                customer.AddressList = addressRepository.RetrieveByCustomerId(customerId).ToList();
             }
 
             return customer;
