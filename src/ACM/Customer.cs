@@ -4,7 +4,7 @@ namespace ACM
 {
     public class Customer
     {
-        public Customer(): this(0)
+        public Customer() : this(0)
         {
 
         }
@@ -14,6 +14,7 @@ namespace ACM
             AddressList = new List<Address>();
         }
         public int CustomerId { get; private set; }
+        public int CustomerType { get; set; }
         public List<Address> AddressList { get; set; }
         public string FirstName { get; set; }
         public string EmailAddress { get; set; }

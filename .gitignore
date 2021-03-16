@@ -7,8 +7,8 @@
 *.ko
 *.obj
 *.elf
-*src/ACM/bin/
-*src/ACM/obj/
+*src/ACM/bin
+*src/ACM/obj
 *test/ACM.Tests/obj
 *test/ACM.Tests/bin
 
