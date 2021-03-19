@@ -19,8 +19,8 @@ namespace ACM
         {
             get
             {
-                var stringHandler = new StringHandler();
-                return stringHandler.InsertSpaces(productName);
+                // return StringHandler.InsertSpaces(productName);
+                return productName.InsertSpaces();
             }
 
             set => productName = value;
