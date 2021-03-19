@@ -1,0 +1,13 @@
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/Acme.Common/bin/Debug/netcoreapp3.1/Acme.Common
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/Acme.Common/bin/Debug/netcoreapp3.1/Acme.Common.deps.json
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/Acme.Common/bin/Debug/netcoreapp3.1/Acme.Common.runtimeconfig.json
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/Acme.Common/bin/Debug/netcoreapp3.1/Acme.Common.runtimeconfig.dev.json
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/Acme.Common/bin/Debug/netcoreapp3.1/Acme.Common.dll
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/Acme.Common/bin/Debug/netcoreapp3.1/Acme.Common.pdb
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/Acme.Common/obj/Debug/netcoreapp3.1/Acme.Common.csprojAssemblyReference.cache
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/Acme.Common/obj/Debug/netcoreapp3.1/Acme.Common.AssemblyInfoInputs.cache
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/Acme.Common/obj/Debug/netcoreapp3.1/Acme.Common.AssemblyInfo.cs
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/Acme.Common/obj/Debug/netcoreapp3.1/Acme.Common.csproj.CoreCompileInputs.cache
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/Acme.Common/obj/Debug/netcoreapp3.1/Acme.Common.dll
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/Acme.Common/obj/Debug/netcoreapp3.1/Acme.Common.pdb
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/Acme.Common/obj/Debug/netcoreapp3.1/Acme.Common.genruntimeconfig.cache

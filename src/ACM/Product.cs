@@ -1,7 +1,11 @@
+using Acme.Common;
+
 namespace ACM
 {
-    public class Product:EntityBase
+    public class Product : EntityBase
     {
+        private string productName;
+
         public Product()
         {
 
@@ -11,7 +15,16 @@ namespace ACM
             ProductId = productId;
         }
         public int ProductId { get; private set; }
-        public string ProductName { get; set; }
+        public string ProductName
+        {
+            get
+            {
+                var stringHandler = new StringHandler();
+                return stringHandler.InsertSpaces(productName);
+            }
+
+            set => productName = value;
+        }
         public string productDescription { get; set; }
         public decimal? CurrentPrice { get; set; }
 
@@ -31,7 +44,7 @@ namespace ACM
                 isValid = false;
                 return isValid;
             }
-            if (CurrentPrice==null)
+            if (CurrentPrice == null)
             {
                 isValid = false;
                 return isValid;

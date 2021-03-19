@@ -97,3 +97,6 @@
 /home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/test/ACM.Tests/bin/Debug/netcoreapp3.1/ACM
 /home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/test/ACM.Tests/bin/Debug/netcoreapp3.1/ACM.dll
 /home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/test/ACM.Tests/bin/Debug/netcoreapp3.1/ACM.pdb
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/test/ACM.Tests/bin/Debug/netcoreapp3.1/Acme.Common
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/test/ACM.Tests/bin/Debug/netcoreapp3.1/Acme.Common.dll
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/test/ACM.Tests/bin/Debug/netcoreapp3.1/Acme.Common.pdb

@@ -905,11 +905,24 @@
       "ACM/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Acme.Common": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/ACM.dll": {}
         },
         "runtime": {
           "bin/placeholder/ACM.dll": {}
+        }
+      },
+      "Acme.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Acme.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Acme.Common.dll": {}
         }
       }
     }
@@ -3509,6 +3522,11 @@
       "type": "project",
       "path": "../../src/ACM/ACM.csproj",
       "msbuildProject": "../../src/ACM/ACM.csproj"
+    },
+    "Acme.Common/1.0.0": {
+      "type": "project",
+      "path": "../../src/Acme.Common/Acme.Common.csproj",
+      "msbuildProject": "../../src/Acme.Common/Acme.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {

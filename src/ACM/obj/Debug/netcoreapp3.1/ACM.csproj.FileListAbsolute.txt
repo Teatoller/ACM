@@ -11,3 +11,7 @@
 /home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/obj/Debug/netcoreapp3.1/ACM.dll
 /home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/obj/Debug/netcoreapp3.1/ACM.pdb
 /home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/obj/Debug/netcoreapp3.1/ACM.genruntimeconfig.cache
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/bin/Debug/netcoreapp3.1/Acme.Common
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/bin/Debug/netcoreapp3.1/Acme.Common.dll
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/bin/Debug/netcoreapp3.1/Acme.Common.pdb
+/home/steven/Documents/sphereConsultancy/csharpproj/rdms/acm/src/ACM/obj/Debug/netcoreapp3.1/ACM.csproj.CopyComplete
